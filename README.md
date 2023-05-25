@@ -1,8 +1,5 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/a7d00541-dfef-4dfe-acea-030cad5e7209)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
-(https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/024d8ca9-2484-49fa-952b-e1725203d2cc)
-
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/f63c9fcf-4777-4705-ad36-6091ff439864)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/10b887ba-13b2-444b-8994-f9dc7d899135)
