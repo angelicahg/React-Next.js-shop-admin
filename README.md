@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![image](https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/a7d00541-dfef-4dfe-acea-030cad5e7209))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelicahg/React-Next.js-shop-admin/assets/87252525/a7d00541-dfef-4dfe-acea-030cad5e7209))
 
 
 
